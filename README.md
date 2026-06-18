@@ -27,7 +27,7 @@ Główne notatki i zasoby znajdziesz w folderze `/course-materials`:
 
 - 📓 [**Course Notes — AI in Programming**](course-materials/Course%20Notes%20-%20AI%20in%20Programming.md) — główne notatki: trendy, narzędzia, benchmarki, metodologie agentic coding, best practices.
 - 📅 [**Agenda kursu**](course-materials/course-agenda.md) — program 5-dniowego szkolenia.
-- 📜 Skrypty z poszczególnych dni (`course-materials/03-2026/day-*-full-script.md`)
+- 📜 Skrypty z poszczególnych dni (`course-materials/summary+chat-history`)
 - 🔬 Materiały badawcze (`course-materials/Research/`)
 - 💡 Przykłady promptów (`course-materials/Prompt examples/`)
 - 🎓 Technika Ralph Wiggum Bash Loop (`course-materials/how-to-ralph-wiggum/`)
@@ -58,7 +58,7 @@ Kurs jest stack-agnostic. Technologie zostaną wybrane live z grupą podczas ADR
 
 ## Narzędzia AI
 
-Główny agent używany na kursu: **Claude Code** lub **OpenAI Codex CLI** (wybór zależy od preferencji grupy). Omawiane koncepcje są transferowalne na Gemini CLI, OpenCode, Cursor, Zed, Junie, Copilot i inne.
+Główny agent używany na kursie: **Claude Code** lub **OpenAI Codex** (wybór zależy od preferencji grupy). Omawiane koncepcje są transferowalne na Antigravity, OpenCode, Cursor, Zed, Junie, Copilot i inne.
 
 ---
 
