@@ -1,5 +1,7 @@
 # Example prompt (dictated) to modernize legacy code
 
+> Repo legacy: https://github.com/sai-pullabhotla/jftp/tree/master#
+
 I am now in a very old Java project, in very old versions, which are no longer supported and which will not work here locally on this computer.
 
 I want you to help me modernize this code and create a detailed plan for how we can do it step by step, so that this project works with modern versions of Java and with newer versions of libraries, and above all, so that it is run at all and you can use it again.
